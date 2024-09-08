@@ -31,9 +31,9 @@ To modify parameters of existing scenarios, go to the directory
 Here, the ``.yaml`` files hold to the settings applied to the whole scenario. 
 Important settings that you might may wish to modify: 
 
-- ``vehicle_perception``: when it is ``perception_true``, vehicles can use camera and LIDAR data. To turn it off, set it to ``perception_false``.
+* ``vehicle_perception``: when it is ``perception_true``, vehicles can use camera and LIDAR data. To turn it off, set it to ``perception_false``.
 
-- ``game_map``: ``map_activated`` turns the game map visualization on. We leave ``map_deactivated`` off to save processing power.
+* ``game_map``: ``map_activated`` turns the game map visualization on. We leave ``map_deactivated`` off to save processing power.
 
 
 To modify parameters of existing scenarios, go to the directory
