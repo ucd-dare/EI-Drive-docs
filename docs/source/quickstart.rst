@@ -15,12 +15,10 @@ Running a Scenario
 
 To run a scenario, first create two terminal windows. In the first one, change into your Carla directory.
 To start your Carla world, run the command
-
 .. code-block:: console
     ./CarlaUE4.sh
 
 Now you can run a scenario using the other window using the following command. The defualt scenario to be run is ``demo``.
-
 .. code-block:: console
     python3 EI_Drive.py
 
